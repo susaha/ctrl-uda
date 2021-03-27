@@ -1,6 +1,6 @@
 ## Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation
 
-This is the official pytorch implementation of our paper:
+This is the official pytorch implementation of our CVPR2021 accepted paper:
 ```BibTeX
 @misc{Saha2021RelSemDep,
   title =        {Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation},
